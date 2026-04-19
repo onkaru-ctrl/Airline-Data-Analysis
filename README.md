@@ -24,3 +24,6 @@ To understand airline performance, passenger trends, and revenue patterns using 
 
 ## 🚀 Conclusion
 This project demonstrates data visualization, dashboard design, and business insight generation using Power BI.
+
+## 📥 Download Project
+[Click here to download Power BI file](Airlines Analysis- Power BI Dashboard (1).pbix)
